@@ -1,5 +1,5 @@
 # Lessons
-3 занятие:
+3 Тема:
 
   Задача 1 - http://ulivt.ru:8082/ru/problem-pid-c4cc?ps=15&smt=7&smpwid=0
   
