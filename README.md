@@ -1,5 +1,5 @@
 # Lessons
-3 Тема:
+Условные операторы:
 
   Задача 1 - http://ulivt.ru:8082/ru/problem-pid-c4cc?ps=15&smt=7&smpwid=0
   
@@ -28,3 +28,33 @@
   Задача 13 - http://ulivt.ru:8082/ru/problem-pid-c4ca?ps=15&smt=7&smpwid=0
   
   Задача 14 - http://ulivt.ru:8082/ru/problem-pid-c4c4?ps=15&smt=7&smpwid=0
+  
+  Циклы:
+  
+  Запуск ракеты - http://ulivt.ru:8082/ru/problem-pid-c5af?ps=15&smt=7&smpwid=0
+  
+  Максимальное число - http://ulivt.ru:8082/ru/problem-pid-c4f9?ps=15&smt=7&smpwid=0
+  
+  Два через два - http://ulivt.ru:8082/ru/problem-pid-c5b0?ps=15&smt=7&smpwid=0
+  
+  От 1 до N чётные - http://ulivt.ru:8082/ru/problem-pid-c4ec?ps=15&smt=7&smpwid=0
+  
+  От A до B нечётные - http://ulivt.ru:8082/ru/problem-pid-c4ee?ps=15&smt=7&smpwid=0
+  
+  Сумма вводимых чисел - http://ulivt.ru:8082/ru/problem-pid-c4f0?ps=15&smt=7&smpwid=0
+  
+  Владимир и бутерброды - http://ulivt.ru:8082/ru/problem-pid-c577?ps=15&smt=7&smpwid=0
+  
+  Полосатый флаг - http://ulivt.ru:8082/ru/problem-pid-c544?ps=15&smt=7&smpwid=0
+  
+  Квадраты до N - http://ulivt.ru:8082/ru/problem-pid-c4fa?ps=15&smt=7&smpwid=0
+  
+  Количество чётных чисел: До нуля - http://ulivt.ru:8082/ru/problem-pid-c669?ps=15&smt=7&smpwid=0
+  
+  Макс и 1000 отжиманий - http://ulivt.ru:8082/ru/problem-pid-c53a?ps=15&smt=7&smpwid=0
+  
+  Наименьшее общее кратное - http://ulivt.ru:8082/ru/problem-pid-c4f2?ps=15&smt=7&smpwid=0
+  
+  Лесенка - http://ulivt.ru:8082/ru/problem-pid-c4f8?ps=15&smt=7&smpwid=0
+  
+  Английский флаг - http://ulivt.ru:8082/ru/problem-pid-c541?ps=15&smt=7&smpwid=0
