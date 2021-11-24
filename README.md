@@ -67,4 +67,12 @@
   
   17) Лесенка - http://ulivt.ru:8082/ru/problem-pid-c4f8?ps=15&smt=7&smpwid=0
   
-  18) Английский флаг - http://ulivt.ru:8082/ru/problem-pid-c541?ps=15&smt=7&smpwid=0
+  18) Однотонный флаг - http://ulivt.ru:8082/ru/problem-pid-c53f?ps=15&smt=7&smpwid=0
+  
+  19) Латвийский флаг - http://ulivt.ru:8082/ru/problem-pid-c540?ps=15&smt=7&smpwid=0
+  
+  20) Английский флаг - http://ulivt.ru:8082/ru/problem-pid-c541?ps=15&smt=7&smpwid=0
+  
+  21) Андреевский флаг - http://ulivt.ru:8082/ru/problem-pid-c542?ps=15&smt=7&smpwid=0
+  
+  22) Британский флаг - http://ulivt.ru:8082/ru/problem-pid-c543?ps=15&smt=7&smpwid=0
