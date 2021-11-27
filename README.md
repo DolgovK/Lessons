@@ -42,3 +42,9 @@
   20) Макс и полив растений - http://ulivt.ru:8082/ru/problem-pid-c640?ps=15&smt=7&smpwid=0
   
   21) Максимальный элемент на отрезке - http://ulivt.ru:8082/ru/problem-pid-c54d?ps=15&smt=7&smpwid=0
+
+  -------------------------------------------------------------------------------
+  
+  22) Лотерея - http://ulivt.ru:8082/ru/problem-pid-c5b4?ps=15&smt=7&smpwid=0
+  
+  23) Макс и забытые покупки - http://ulivt.ru:8082/ru/problem-pid-c63f?ps=15&smt=7&smpwid=0
