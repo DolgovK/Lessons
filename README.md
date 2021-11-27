@@ -1,6 +1,4 @@
-# Lessons
-
-  Циклы:
+# Циклы:
   
   1) Запуск ракеты - http://ulivt.ru:8082/ru/problem-pid-c5af?ps=15&smt=7&smpwid=0
   
