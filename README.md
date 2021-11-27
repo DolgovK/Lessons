@@ -1,4 +1,4 @@
-# Списки
+# Списки - 2
   1) От минимального до максимального - http://ulivt.ru:8082/ru/problem-pid-c51d?ps=15&smt=7&smpwid=0
   
   2) Наиболее частый элемент - http://ulivt.ru:8082/ru/problem-pid-c57b?ps=15&smt=7&smpwid=0
