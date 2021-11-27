@@ -48,3 +48,5 @@
   22) Лотерея - http://ulivt.ru:8082/ru/problem-pid-c5b4?ps=15&smt=7&smpwid=0
   
   23) Макс и забытые покупки - http://ulivt.ru:8082/ru/problem-pid-c63f?ps=15&smt=7&smpwid=0
+  
+  24) Списывание - http://ulivt.ru:8082/ru/problem-pid-c5b3?ps=15&smt=7&smpwid=0
