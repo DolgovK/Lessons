@@ -3,3 +3,4 @@
 2) Циклы - https://github.com/DolgovK/Lessons/tree/cycles
 3) Списки - https://github.com/DolgovK/Lessons/tree/lists
 4) Списки-2 - https://github.com/DolgovK/Lessons/tree/lists_for_cools
+5) Функции - https://github.com/DolgovK/Lessons/tree/functions
