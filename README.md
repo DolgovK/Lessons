@@ -1,4 +1,4 @@
-# Ввод вывод
+# Ввод-вывод
 1) Hello World - http://ulivt.ru:8082/ru/problem-pid-c49f?ps=15&smt=7&smpwid=0
 2) Hello %username% - http://ulivt.ru:8082/ru/problem-pid-c4a9?ps=15&smt=7&smpwid=0
 3) Hello Name - http://ulivt.ru:8082/ru/problem-pid-c633?ps=15&smt=7&smpwid=0
