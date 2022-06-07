@@ -11,27 +11,26 @@
 9) Форматирование времени - http://ulivt.ru:8082/ru/problem-pid-c632?ps=15&smt=7&smpwid=0
 10) Генерация приглашений - http://ulivt.ru:8082/ru/problem-pid-c631?ps=15&smt=7&smpwid=0
 11) Следующее число - http://ulivt.ru:8082/ru/problem-pid-c4ae?ps=15&smt=7&smpwid=0
-12) Округление - http://ulivt.ru:8082/ru/problem-pid-c4a7?ps=15&smt=7&smpwid=0
 
 ---------------------------------------------
-13) Простой калькулятор - http://ulivt.ru:8082/ru/problem-pid-c4a8?ps=15&smt=7&smpwid=0
-14) Странные вычисления - http://ulivt.ru:8082/ru/problem-pid-c4a1?ps=15&smt=7&smpwid=0
-15) Макс и кофе - http://ulivt.ru:8082/ru/problem-pid-c4ad?ps=15&smt=7&smpwid=0
-16) Красивые часы — 1 - http://ulivt.ru:8082/ru/problem-pid-c4a4?ps=15&smt=7&smpwid=0
-17) Красивые часы — 2 - http://ulivt.ru:8082/ru/problem-pid-c4a5?ps=15&smt=7&smpwid=0
-
----------------------------------------------
-
-18) Площадь и периметр - http://ulivt.ru:8082/ru/problem-pid-c4a0?ps=15&smt=7&smpwid=0
-19) Окраска кубика - http://ulivt.ru:8082/ru/problem-pid-c5aa?ps=15&smt=7&smpwid=0
-20) Краска для плакатов - http://ulivt.ru:8082/ru/problem-pid-c4af?ps=15&smt=7&smpwid=0
-21) Покупка линолеума - http://ulivt.ru:8082/ru/problem-pid-c5ab?ps=15&smt=7&smpwid=0
-22) Покупка пирожков - http://ulivt.ru:8082/ru/problem-pid-c4a3?ps=15&smt=7&smpwid=0
-23) Простые, средние и сложные - http://ulivt.ru:8082/ru/problem-pid-c4ac?ps=15&smt=7&smpwid=0
-24) Увеличить на 20 процентов - http://ulivt.ru:8082/ru/problem-pid-c637?ps=15&smt=7&smpwid=0
+12) Простой калькулятор - http://ulivt.ru:8082/ru/problem-pid-c4a8?ps=15&smt=7&smpwid=0
+13) Странные вычисления - http://ulivt.ru:8082/ru/problem-pid-c4a1?ps=15&smt=7&smpwid=0
+14) Макс и кофе - http://ulivt.ru:8082/ru/problem-pid-c4ad?ps=15&smt=7&smpwid=0
+15) Красивые часы — 1 - http://ulivt.ru:8082/ru/problem-pid-c4a4?ps=15&smt=7&smpwid=0
+16) Красивые часы — 2 - http://ulivt.ru:8082/ru/problem-pid-c4a5?ps=15&smt=7&smpwid=0
 
 ---------------------------------------------
 
-25) Макс и чайник - http://ulivt.ru:8082/ru/problem-pid-c4a2?ps=15&smt=7&smpwid=0
-26) Покупка канцелярии - http://ulivt.ru:8082/ru/problem-pid-c536?ps=15&smt=7&smpwid=0
-27) Коробки с соком - http://ulivt.ru:8082/ru/problem-pid-c4aa?ps=15&smt=7&smpwid=0
+17) Площадь и периметр - http://ulivt.ru:8082/ru/problem-pid-c4a0?ps=15&smt=7&smpwid=0
+18) Окраска кубика - http://ulivt.ru:8082/ru/problem-pid-c5aa?ps=15&smt=7&smpwid=0
+19) Краска для плакатов - http://ulivt.ru:8082/ru/problem-pid-c4af?ps=15&smt=7&smpwid=0
+20) Покупка линолеума - http://ulivt.ru:8082/ru/problem-pid-c5ab?ps=15&smt=7&smpwid=0
+21) Покупка пирожков - http://ulivt.ru:8082/ru/problem-pid-c4a3?ps=15&smt=7&smpwid=0
+22) Простые, средние и сложные - http://ulivt.ru:8082/ru/problem-pid-c4ac?ps=15&smt=7&smpwid=0
+23) Увеличить на 20 процентов - http://ulivt.ru:8082/ru/problem-pid-c637?ps=15&smt=7&smpwid=0
+
+---------------------------------------------
+
+24) Макс и чайник - http://ulivt.ru:8082/ru/problem-pid-c4a2?ps=15&smt=7&smpwid=0
+25) Покупка канцелярии - http://ulivt.ru:8082/ru/problem-pid-c536?ps=15&smt=7&smpwid=0
+26) Коробки с соком - http://ulivt.ru:8082/ru/problem-pid-c4aa?ps=15&smt=7&smpwid=0
