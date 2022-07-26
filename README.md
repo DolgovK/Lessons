@@ -1,6 +1,6 @@
 # Lessons
 0) Ввод-вывод - https://github.com/DolgovK/Lessons/tree/input_output
-1) Условные операторы - https://github.com/DolgovK/Lessons/tree/Ifs
+1) Условные операторы - https://github.com/DolgovK/Lessons/tree/ifs_2
 2) Циклы - https://github.com/DolgovK/Lessons/tree/cycles
 3) Списки - https://github.com/DolgovK/Lessons/tree/lists
 4) Списки-2 - https://github.com/DolgovK/Lessons/tree/lists_for_cools
